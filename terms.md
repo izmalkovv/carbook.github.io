@@ -11,7 +11,7 @@ We operate the mobile application CarBook: Car Maintenance Log, as well as any o
 
 CarBook is a mobile iOS application for car maintenance tracking and management. Users can register and manage multiple vehicles, log service records (repairs, oil changes, tire replacements, scheduled maintenance), track mileage and expenses, set maintenance reminders, and view cost analytics. The app uses AI-powered features including receipt scanning (OCR) via Google Gemini and OpenAI APIs to automatically extract service data from photos of receipts, and smart maintenance suggestions based on vehicle service history.
 
-You can contact us by email at artizmalkov@icloud.com or by mail to Oleksandra Myshugy st 10, Kyiv 02141, Ukraine.
+You can contact us by email at artizmalkov@icloud.com or by mail to Hvardiitsiv-shironintsiv st. 23, Kharkiv 61153, Ukraine. 
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and Artem Izmalkov, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -234,9 +234,9 @@ These Legal Terms and any policies or operating rules posted by us on the Servic
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
 **Artem Izmalkov**
-Oleksandra Myshugy st 10
-Kyiv 02141
-Ukraine
+Hvardiitsiv-shironintsiv st. 23 
+Kharkiv 61153 
+Ukraine 
 
 Email: artizmalkov@icloud.com
 
